@@ -1,0 +1,18 @@
+jupyter
+pymongo[srv]
+pandas
+evidently
+category-encoders
+from-root
+matplotlib
+seaborn
+scikit-learn
+ipykernel
+imblearn
+xgboost
+boto3
+python-multipart
+dill
+fastapi[all]
+mypy-boto3-s3
+-e .
